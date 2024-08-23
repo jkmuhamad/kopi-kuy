@@ -1,0 +1,126 @@
+{   
+    "Kopi": [
+        {
+            "foto": "https://img.freepik.com/free-photo/delicious-quality-coffee-cup_23-2150691369.jpg",
+            "nama": "Cappuccino",
+            "harga": "25.000",
+            "size": "150 ml",
+            "link": "#"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Espresso",
+            "harga": "15.000",
+            "size": "100 ml",
+            "link": "#"
+        },
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopi Susu",
+            "harga": "15.000",
+            "size": "100 ml",
+            "link": "#"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte",
+            "harga": "15.000",
+            "size": "100 ml",
+            "link": "#"
+        }
+
+    ],
+    "Teh": [
+        {
+            "foto": "https://dcostseafood.id/wp-content/uploads/2021/12/Teh-tawar-manis.jpg",
+            "nama": "Teh Tawar Manis",
+            "harga": "5.000",
+            "size": "100 ml",
+            "link": "#"
+        },
+        {
+            "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Teh_Poci_Gula_Batu.jpg/1200px-Teh_Poci_Gula_Batu.jpg",
+            "nama": "Teh Poci",
+            "harga": "5.000",
+            "size": "100 ml",
+            "link": "#"
+        },
+        {
+            "foto": "https://www.mentimun.co.id/images/store/034D0015FLGTEH_KOTAK_200ML_ISI_24_PCS.jpeg",
+            "nama": "Teh Kotak",
+            "harga": "5.000",
+            "size": "100 ml",
+            "link": "#"
+        }
+        
+    ],
+    "Makanan": [
+        {
+            "foto": "https://img-global.cpcdn.com/recipes/f3d4726746ab80f2/1200x630cq70/photo.jpg",
+            "nama": "Donat Mix",
+            "harga": "25.000",
+            "size": "12 Pcs",
+            "link": "#"
+        },
+        {
+            "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/2018_01_Croissant_IMG_0685.JPG/1200px-2018_01_Croissant_IMG_0685.JPG",
+            "nama": "Croissant",
+            "harga": "25.000",
+            "size": "12 Pcs",
+            "link": "#"
+        },
+        {
+            "foto": "https://static01.nyt.com/images/2022/02/12/dining/JT-Chocolate-Chip-Cookies/JT-Chocolate-Chip-Cookies-square640.jpg",
+            "nama": "Cookies",
+            "harga": "25.000",
+            "size": "12 Pcs",
+            "link": "#"
+        }
+    ],
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://ds393qgzrxwzn.cloudfront.net/resize/m600x500/cat1/img/images/0/fRC762J6Ya.jpg",
+            "nama": "Robusta Flores",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=robusta+flores+minuman&oq=rob&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg4IARBFGCcYOxiABBiKBTINCAIQLhiDARixAxiABDIGCAMQRRg5MgwIBBAuGEMYgAQYigUyDAgFEAAYQxiABBiKBTINCAYQABiDARixAxiABDIKCAcQABixAxiABDIKCAgQABixAxiABDIHCAkQABiPAtIBCTE4MjVqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8"
+        }
+    ]
+}
